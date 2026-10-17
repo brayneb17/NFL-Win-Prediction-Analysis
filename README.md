@@ -39,6 +39,10 @@ However, when predicting future games using recent performance, passing-yard and
 
 These findings highlight the difference between explaining completed game outcomes and predicting future results.
 
+### NFL Statistical Comparison
+
+![NFL Win Rate Comparison](nfl_win_rate_comparison.png)
+
 ## Technologies Used
 
 - Python
